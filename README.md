@@ -8,4 +8,6 @@ This Repository accept all the programming language but the code is specifically
 
 # How to Contribute in Opensource
 
-[[The Link of Youtube Video is attached](https://youtu.be/XhugOqh628Q)]
+[The Link of Youtube Video is attached](https://youtu.be/XhugOqh628Q)
+
+Also you can read the CONTRIBUTING.md file 
